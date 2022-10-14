@@ -1,5 +1,5 @@
 # daily-proverb
-A shell script prints out a randomly selected verse from the Proverb-of-the-day.
+A shell script that prints out a randomly selected verse from the Proverb-of-the-day.
 
 ## About
 The Bible's book of Proverbs contains 31 chapters, which, coincides pretty well with the number of days in a given month.  
